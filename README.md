@@ -5,10 +5,11 @@
 ## Screenshots 📸
 
 ### Desktop View:
-![Desktop Screenshot](../3D-animated-space/src/assets/Screenshots/Screenshot%202024-11-05%20010945.png)
+![Desktop Screenshot](https://github.com/user-attachments/assets/04570d59-3da1-4b2e-b643-66e1e5f89315)
 
 ### Mobile View:
-![Mobile Screenshot](../3D-animated-space/src/assets/Screenshots/iPhone-14-Plus-localhost.png)
+![Mobile Screenshot](https://github.com/user-attachments/assets/cf125ce3-311d-4f44-8281-1edcadff0d51)
+
 
 ## Features ✨
 
