@@ -101,7 +101,7 @@
 
 ## Live Preview 🌐
 
-Explore the live version of **3D Animated Space Hero Page**: [Live Demo](https://your-live-link)
+Explore the live version of **3D Animated Space Hero Page**: [Live Demo](https://3d-animated-space.netlify.app)
 
 ## Contact 📬
 
